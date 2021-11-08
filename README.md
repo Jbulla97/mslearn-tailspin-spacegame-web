@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Jbulla/Juego%20espacial%20-%20web%20-%20Flujo%20de%20trabajo/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/Jbulla/Juego%20espacial%20-%20web%20-%20Flujo%20de%20trabajo/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
